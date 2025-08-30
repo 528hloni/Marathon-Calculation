@@ -1,0 +1,10 @@
+Marathon Speed Calculator - Race Data
+Generated on: 2025-08-30 12:45:24
+==================================================
+
+Session | Total Distance | Covered Distance | Elapsed Time | Target Time | Current Speed | Required Speed
+----------------------------------------------------------------------------------------------------
+   1    |     50.00 km    |     2.00 km      |    1.00 h    |   7.00 h    |    2.00 km/h   |    8.00 km/h
+
+==================================================
+End of Data
